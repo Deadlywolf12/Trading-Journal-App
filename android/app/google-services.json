@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240456767739",
+    "project_id": "trading-jornal",
+    "storage_bucket": "trading-jornal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240456767739:android:7e0d3155f2f90cc252b85e",
+        "android_client_info": {
+          "package_name": "com.example.tj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlrc7QjqdKBiBadqEGnMPOUlA7XH_CzNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
